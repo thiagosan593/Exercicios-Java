@@ -15,9 +15,9 @@ public class Corrida {
 
     public static void main(String[] args) {
         Scanner tec = new Scanner(System.in);
-    
+        int quantjog;
         System.out.println("Infome a Quantidade de Jogadores: ");
-        int quantjog = tec.nextInt();
+        quantjog= tec.nextInt();
         String nomes[] = new String[quantjog];
         float tempos[] = new float[quantjog];
         String nomevencedor = " ";

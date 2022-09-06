@@ -19,7 +19,7 @@ public class Corrida {
         System.out.println("Infome a Quantidade de Jogadores: ");
         int quantjog = tec.nextInt();
         String nomes[] = new String[quantjog];
-        float tempos[] = new float[5];
+        float tempos[] = new float[quantjog];
         String nomevencedor = " ";
         String nomeultimo = " ";
         int vencedor = 400;

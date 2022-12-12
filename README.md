@@ -11,3 +11,4 @@ Num| Descrição
 06|[Sucessor e Antecessor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SucessorAntecessor.java)
 07|[Terça Parte](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/TercaParte.java)
 08|[Conversor de Metros](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ConverterMetros.java)
+08|[Conversor de Real](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RealDolar.java)

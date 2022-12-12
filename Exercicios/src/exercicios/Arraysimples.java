@@ -7,7 +7,7 @@ package exercicios;
 
 /**
  *
- * @author Thiago Faculdade
+ * @author Thiago Santos
  */
 public class Arraysimples {
     

@@ -27,6 +27,8 @@ Num| Descrição | Num| Descrição|
 22|[Preco Km](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PrecoKM.java)
 23|[Comparação de Números](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ComparacaoNum.java)
 24|[Media (2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Mediadois.java)
+25|[Salário por Ano de Trabalho](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SalarioAno.java)
+
 
 
 

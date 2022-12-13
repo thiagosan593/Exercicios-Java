@@ -18,3 +18,4 @@ Num| Descrição | Num| Descrição|
 13|[Dias Trabalhados](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/DiasTrabalhados.java)
 14|[Vida Fumante](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VidaFumante.java)
 15|[Multa Velocidade](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MultaVelocidade.java)
+16|[Votação](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Votacao.java)

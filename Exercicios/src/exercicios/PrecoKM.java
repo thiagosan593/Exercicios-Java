@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Thiago Faculdade
+ * @author Thiago Santos
  */
 public class PrecoKM {
 

@@ -25,7 +25,7 @@ Num| Descrição | Num| Descrição|
 20|[Alistamneto Militar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlistamentoMilitar.java)
 21|[Promoção](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Promocao.java)
 22|[Preco Km](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PrecoKM.java)
-23|[Comparação de Números](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Promocao.java)
+23|[Comparação de Números](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ComparacaoNum.java)
 24|[Media (2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Promocao.java)
 
 

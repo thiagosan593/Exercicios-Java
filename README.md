@@ -13,4 +13,5 @@ Num| Descrição
 08|[Conversor de Metros](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ConverterMetros.java)
 09|[Conversor de Real](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RealDolar.java)
 10|[5% de Desconto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/CincoPorcento.java)
-10|[15% de Aumento Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AumentoSalario.java)
+11|[15% de Aumento Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AumentoSalario.java)
+12|[Locadora](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Locadora.java)

@@ -23,6 +23,7 @@ Num| Descrição | Num| Descrição|
 18|[Par ou Impar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImpar.java)
 19|[Ano Bixesto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AnoBixesto.java)
 20|[Alistamneto Militar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlistamentoMilitar.java)
+21|[Promoção](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlistamentoMilitar.java)
 
 
 

@@ -31,6 +31,9 @@ Num| Descrição | Num| Descrição|
 26|[Jokenpo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Jokenpo.java)
 27|[Acerte o número](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AcerteNum.java)
 29|[Emprestimo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Emprestimo.java)
+30|[IMC](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/IMC.java)
+
+
 
 
 

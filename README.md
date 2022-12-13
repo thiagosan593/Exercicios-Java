@@ -29,6 +29,8 @@ Num| Descrição | Num| Descrição|
 24|[Media (2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Mediadois.java)
 25|[Salário por Ano de Trabalho](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SalarioAno.java)
 26|[PPT](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/jokenpo.java)
+27|[Acerte o número](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AcerteNum.java)
+
 
 
 

@@ -15,3 +15,4 @@ Num| Descrição | Num| Descrição|
 10|[5% de Desconto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/CincoPorcento.java)
 11|[15% de Aumento Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AumentoSalario.java)
 12|[Locadora](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Locadora.java)
+13|[Dias Trabalhados](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/DiasTrabalhados.java)

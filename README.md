@@ -34,6 +34,10 @@ Num| Descrição | Num| Descrição|
 30|[IMC](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/IMC.java)
 31|[Valor KM](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorKM.java)
 32|[Pontos/h em Valor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PontosHora.java)
+33|[Valor Absoluto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorAbsoluto.java)
+34|[Raiz Quadrada](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadrada.java)
+35|[Raiz Quadrada(2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadradaa.java)
+
 
 
 

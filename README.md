@@ -33,6 +33,7 @@ Num| Descrição | Num| Descrição|
 29|[Emprestimo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Emprestimo.java)
 30|[IMC](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/IMC.java)
 31|[Valor KM](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorKM.java)
+32|[Pontos/h em Valor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorKM.java)
 
 
 

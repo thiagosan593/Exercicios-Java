@@ -37,6 +37,18 @@ Num| Descrição | Num| Descrição|
 33|[Valor Absoluto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorAbsoluto.java)
 34|[Raiz Quadrada](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadrada.java)
 35|[Raiz Quadrada(2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadradaa.java)
+36|[Booleano](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Booleano.java)
+37|[Triangulo Escaleno ou Equilatero](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Triangulo.java)
+38|[Idade](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Idade.java)
+38|[Conversão de Temperatura](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ConverterTemp.java)
+39|[Imposto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Imposto.java)
+40|[Empréstimo e Parcelas](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/EmprestimoParc.java)
+41|[Empréstimo e Parcelas(2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/EmprestimoJuros.java)
+42|[Litros de Tinta(Parede)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlturaLargura.java)
+43|[Litros de água ideal)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlturaLargura.java)
+43|[Viagem](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Viagem.java)
+44|[Desconto 5% ou 10%](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Desconto.java)
+44|[Desconto 5% ou 15% ](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Descont.java)
 
 
 

@@ -4,7 +4,7 @@ Exercícios  de Java proveniente de Cursos.
 
 Num| Descrição | Num| Descrição|
 ----|----|----|----|               
-02|[Nome](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nome.java)
+02|[Nome](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nome.java)|02|[Soma(Métodos)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaMetodos.java)
 03|[Nome Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nomeSalario.java)
 04|[Soma](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/soma.java)
 05|[Média](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/media.java)

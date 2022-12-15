@@ -30,7 +30,7 @@ public class EmprestimoJuros {
         System.out.print("Quantas parcelas Deseja Dividir? ");
         int parc = tec.nextInt();
         float totpagar = (valor + juros) / parc;
-        System.out.println(" O Valor a pagar será de " + totpagar + " R$");
+        System.out.println(" O Valor a pagar será de " + totpagar + " R$.");
 
     }
 }

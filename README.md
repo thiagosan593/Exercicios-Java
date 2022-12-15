@@ -71,5 +71,5 @@ Num| Descrição | Num| Descrição|
 65|[For it](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ForIt.java)
 66|[Array Sort](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ArraySort.java)
 67|[Busca Vetor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/BuscaVetor.java)
-68|[Preenchimento de Vetor com 0](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PreencimentoVetor.java)
+68|[Preenchimento de Vetor com 0](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PreenchimentoVetor.java)
 

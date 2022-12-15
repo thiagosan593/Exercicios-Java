@@ -4,7 +4,7 @@ Exercícios  de Java proveniente de Cursos.
 
 Num| Descrição | Num| Descrição|
 ----|----|----|----|               
-02|[Nome](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nome.java)
+02|[Nome](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nome.java)|69|[Soma (Métodos)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaMetodos.java)
 03|[Nome Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nomeSalario.java)
 04|[Soma](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/soma.java)
 05|[Média](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/media.java)
@@ -48,21 +48,28 @@ Num| Descrição | Num| Descrição|
 43|[Litros de água ideal)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlturaLargura.java)
 43|[Viagem](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Viagem.java)
 44|[Desconto 5% ou 10%](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Desconto.java)
-44|[Desconto 5% ou 15% ](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Descont.java)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+45|[Desconto 5% ou 15% ](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Descont.java)
+46|[Triângulo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/TrianguloF.java)
+47|[Departamento de Trânsito](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/DepartamentoTransito.java)
+48|[Média (3)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Mediac.java)
+49|[Média (4)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Mediacon.java)
+50|[Impressão de Nº Par](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Whilepar.java)
+51|[Contagem até N pulandoa N ](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/NPassoN.java)
+52[Contagem de números](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Contagem.java)
+53[Impressão de Nº Impar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContaImpar.java)
+54[Soma de Nº Digitados entre 0 e 10](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaNum.java)
+55[Doação](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaNum.java)
+56[While](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/CriancaEsp.java)
+57[While](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/While.java)
+58[Média (for)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MediaFor.java)
+59[Média e Aproveitamento](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MediaAprov.java)
+60[Partidada de Futebool](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PartFut.java)
+61[Combinação](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/combinacao.java)
+62[Combinação](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/combinacaoo.java)
+63[Vetor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Vetor.java)
+64[Mês e Dias](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MesDia.java)
+65[For it](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ForIt.java)
+66[Array Sort](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ArraySort.java)
+67[Busca Vetor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/BuscaVetor.java)
+68[Preenchimento de Vetor com 0](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PreencimentoVetor.java)
 

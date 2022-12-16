@@ -35,7 +35,7 @@ public class ComparacaoVal {
         }
         float media = soma / n;
         System.out.println("A soma entre os valores é " + soma);
-        System.out.println("A media entre os Valores é " + media);
+        System.out.println("A média entre os Valores é " + media);
         System.out.println(" A quantidade de Valores divisíveis por  5 são " + div5);
         System.out.println("A quantidade de Valores nulo é " + nulo);
         System.out.println("A soma dos Valores pares é : " + valorp);

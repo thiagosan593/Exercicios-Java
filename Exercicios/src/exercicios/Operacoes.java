@@ -20,8 +20,10 @@ public class Operacoes {
         System.out.println("Digite 3 para multiplicar");
         System.out.println("Digite 4 para Dividir");
         int i = tec.nextInt();
-
-        System.out.println("Digite o Número 1: ");
+        if(i<=0 || i>4){
+            System.out.println("Opção inválida");
+        }else{
+                 System.out.println("Digite o Número 1: ");
         float num1 = tec.nextFloat();
         System.out.println("Digite o Número 2: ");
         float num2 = tec.nextFloat();
@@ -49,5 +51,7 @@ public class Operacoes {
             }
         }
 
+        }
+   
     }
 }

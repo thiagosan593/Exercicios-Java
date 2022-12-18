@@ -12,7 +12,7 @@ Num| Descrição | Num| Descrição|
 07|[Terça Parte](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/TercaParte.java)|74|[Média Idade(While)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MediaIdade.java)
 08|[Conversor de Metros](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ConverterMetros.java)|75|[Soma (Métodos)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaR.java)
 09|[Conversor de Real](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RealDolar.java)|76|[Par-Impar (While)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImparR.java)
-10|[5% de Desconto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/CincoPorcento.java)
+10|[5% de Desconto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/CincoPorcento.java)|77|[Contagem de Pessoas](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContadorPessoas.java)
 11|[15% de Aumento Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AumentoSalario.java)
 12|[Locadora](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Locadora.java)
 13|[Dias Trabalhados](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/DiasTrabalhados.java)

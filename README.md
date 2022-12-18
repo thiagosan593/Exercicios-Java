@@ -8,7 +8,7 @@ Num| Descrição | Num| Descrição|
 03|[Nome Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/nomeSalario.java)|70|[Operações](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Operacoes.java)
 04|[Soma](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/soma.java)|71|[Comparação de Valores](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ComparacaoVal.java)
 05|[Média](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/media.java)|72|[Peso](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Peso.java)
-06|[Sucessor e Antecessor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SucessorAntecessor.java)
+06|[Sucessor e Antecessor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SucessorAntecessor.java)|73|[Soma flag](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Somaf.java)
 07|[Terça Parte](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/TercaParte.java)
 08|[Conversor de Metros](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ConverterMetros.java)
 09|[Conversor de Real](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RealDolar.java)

@@ -5,11 +5,9 @@
  */
 package exercicios;
 
-import java.util.Scanner;
-
 /**
  *
- * @author Thiago Faculdade
+ * @author Thiago Santos
  */
 public class RetronoFrase {
     public static void main(String[] args) {

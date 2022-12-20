@@ -9,7 +9,7 @@ package exercicios;
  *
  * @author Thiago Santos
  */
-public class RetronoFrase {
+public class RetornoFrase {
     public static void main(String[] args) {
         f("BEM VINDO");
     }

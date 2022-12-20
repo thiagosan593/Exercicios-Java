@@ -19,7 +19,7 @@ Num| Descrição | Num| Descrição|
 14|[Vida Fumante](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VidaFumante.java)|81|[Nº Maior(Função)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MaiorF.java)
 15|[Multa Velocidade](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MultaVelocidade.java)|82|[Par ou Impar(Função)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImparF.java)
 16|[Votação](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Votacao.java)|83|[Contador(Função)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContadorF.java)
-17|[Media Aluno](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlunoMedia.java)
+17|[Media Aluno](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlunoMedia.java)|84|[Maior/Menor entre 0 e 100](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MaiorMenor.java)
 18|[Par ou Impar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImpar.java)
 19|[Ano Bixesto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AnoBixesto.java)
 20|[Alistamneto Militar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlistamentoMilitar.java)

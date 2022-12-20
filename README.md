@@ -16,7 +16,7 @@ Num| Descrição | Num| Descrição|
 11|[15% de Aumento Salário](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AumentoSalario.java)|78|[Frase(Função)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RetornoFrase.java)
 12|[Locadora](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Locadora.java)|79|[Frase (Função-Repetição)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RetornoFr.java)
 13|[Dias Trabalhados](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/DiasTrabalhados.java)|80|[Frase (Função/Match)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RetornoFrmatch.java)
-14|[Vida Fumante](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VidaFumante.java)
+14|[Vida Fumante](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VidaFumante.java)|81|[Nº Maior(Função)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MaiorF.java)
 15|[Multa Velocidade](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MultaVelocidade.java)
 16|[Votação](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Votacao.java)
 17|[Media Aluno](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlunoMedia.java)

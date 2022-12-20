@@ -23,7 +23,7 @@ Num| Descrição | Num| Descrição|
 18|[Par ou Impar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImpar.java)|85|[Maior/Menor (do-while)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MaiorMenorWhile.java)
 19|[Ano Bixesto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AnoBixesto.java)|86|[Contagem e Soma](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContagemESoma.java)
 20|[Alistamneto Militar](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AlistamentoMilitar.java)|87|[Contagem Regressiva e soma](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContagemRegre.java)
-21|[Promoção](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Promocao.java)
+21|[Promoção](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Promocao.java)|88|[Soma(for)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaRept.java)
 22|[Preco Km](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PrecoKM.java)
 23|[Comparação de Números](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ComparacaoNum.java)
 24|[Media (2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Mediadois.java)

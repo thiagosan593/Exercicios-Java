@@ -20,14 +20,14 @@ public class ValidacaoCPF {
         Scanner tec = new Scanner(System.in);
 
         String cpf;
-
+        System.out.println("Digite seu CPF");
         cpf = tec.next();
 
         if (isCPF(Format(cpf)) == true) {
-            System.out.printf("\n CPF valido");
+            System.out.println("\n CPF válido");
 
         } else {
-            System.out.printf("\n CPF invalido");
+            System.out.println("\n CPF inválido");
         }
 
     }

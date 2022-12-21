@@ -27,7 +27,7 @@ Num| Descrição | Num| Descrição|
 22|[Preco Km](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PrecoKM.java)|89|[Acerte o num)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AcerteNumero.java)
 23|[Comparação de Números](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ComparacaoNum.java)|90|[Vetor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VetorS.java)
 24|[Media (2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Mediadois.java)|91|[Vetor (Contagem)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VetorCont.java)
-25|[Salário por Ano de Trabalho](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SalarioAno.java)
+25|[Salário por Ano de Trabalho](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SalarioAno.java)|92|[Vetor (Contagem Regressiva)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContagemVetor.java)
 26|[Jokenpo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Jokenpo.java)
 27|[Acerte o número](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AcerteNum.java)
 29|[Emprestimo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Emprestimo.java)

@@ -9,13 +9,13 @@ package exercicios;
  *
  * @author Thiago Santos
  */
-public class ContagemVetor {
+public class NumAle {
 
     public static void main(String[] args) {
         int n[] = new int[9];
 
-        for (int i = n.length - 1; i >= 0; i--) {
-            n[i] = i;
+        for (int i = 0; i < n.length; i++) {
+            n[i] = (int) (Math.random() * (100));
             System.out.print(n[i] + " ");
         }
 

@@ -18,7 +18,9 @@ public class VetorCont {
         for (int i = 0; i < n.length; i++) {
             cc += 5;
             n[i] = cc;
-            System.out.println(n[i]);
+        }
+        for (int i = 0; i < n.length; i++) {
+            System.out.print(n[i] + " ");
         }
 
     }

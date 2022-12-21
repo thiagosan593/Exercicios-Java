@@ -31,7 +31,7 @@ Num| Descrição | Num| Descrição|
 26|[Jokenpo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Jokenpo.java)|92|[Números Aleatórios(Entre 0 e 100)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContagemVetor.java)
 27|[Acerte o número](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/AcerteNum.java)|93|[Soma(métodos)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/SomaRet.java)
 29|[Emprestimo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Emprestimo.java)|94|[Par ou Impar(return)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImparReturn.java)
-30|[IMC](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/IMC.java)
+30|[IMC](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/IMC.java)|95|[Contagem de par(Vetor)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContagemParVetor.java)
 31|[Valor KM](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorKM.java)
 32|[Pontos/h em Valor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PontosHora.java)
 33|[Valor Absoluto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorAbsoluto.java)

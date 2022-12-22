@@ -35,7 +35,7 @@ Num| Descrição | Num| Descrição|
 31|[Valor KM](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorKM.java)|96|[Lista e Média(Alunos))](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VetorNotasAlunos.java)
 32|[Pontos/h em Valor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PontosHora.java)|97|[Vetor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VetorSeven.java)
 33|[Valor Absoluto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorAbsoluto.java)|98|[Média-Status(Função)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/MediaR.java)
-34|[Raiz Quadrada](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadrada.java)|99|(Número Maior(return)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/NumMaior.java)
+34|[Raiz Quadrada](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadrada.java)|99|[Número Maior(return)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/NumMaior.java)
 35|[Raiz Quadrada(2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadradaa.java)
 36|[Booleano](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Booleano.java)
 37|[Triangulo Escaleno ou Equilatero](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Triangulo.java)

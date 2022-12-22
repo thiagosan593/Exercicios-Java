@@ -33,7 +33,7 @@ Num| Descrição | Num| Descrição|
 29|[Emprestimo](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/Emprestimo.java)|94|[Par ou Impar(return)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ParImparReturn.java)
 30|[IMC](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/IMC.java)|95|[Contagem de par(Vetor)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ContagemParVetor.java)
 31|[Valor KM](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorKM.java)|96|[Lista e Média(Alunos))](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VetorNotasAlunos.java)
-32|[Pontos/h em Valor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PontosHora.java)
+32|[Pontos/h em Valor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/PontosHora.java)|97|[Vetor](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/VetorSeven.java)
 33|[Valor Absoluto](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/ValorAbsoluto.java)
 34|[Raiz Quadrada](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadrada.java)
 35|[Raiz Quadrada(2)](https://github.com/thiagosan593/Exercicios-Java/blob/master/Exercicios/src/exercicios/RaizQuadradaa.java)
